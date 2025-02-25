@@ -1,0 +1,17 @@
+*{
+    font-family: "Inter", serif;
+
+}
+
+body{
+    margin: 40px;
+}
+
+.formulario{
+    padding-top: 20px;
+}
+
+.teste{
+    padding: 0;
+    margin: 0;
+}    
